@@ -1,0 +1,5 @@
+Bienvenido al maravilloso mundo de la Programación. Hemos empezado con
+una aplicación sencillita ‘Hola mundo’—todo el mundo comienza con eso, cuando
+empiezan a programar. En el siguiente capítulo comenzaremos a hacer cosas más
+útiles con la consola de Python y empezaremos a ver lo que hace falta para hacer
+un programa.
